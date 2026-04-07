@@ -6,7 +6,7 @@ class bird:
         print("The birds is flying")
         
         
-class penguin(bird):
+class penguin(bird): 
     
     def fly(self):   # here child class override the parent class method
         print("The penguin is not flying")
