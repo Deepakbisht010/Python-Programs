@@ -3,7 +3,7 @@
 # for i in range(0,100,2):  #here starting point is 0 and ending point is 100 but skip iteration is 2
 #     print(i)
     
-# ✅slicing with list :-
+# ✅slicing with list :-  
 l=[10,14,12,13,14,67,54,34,89]
 for items in range(0,len(l),3):
     print(l[items])
