@@ -19,7 +19,7 @@ try:
         
         
         if(num==rand):
-            print(f"You won  😃! The currect number is {rand} and you are reaching at this number at  {count} attempts 👍")  
+            print(f"You won  Congratulations 👏 😃! The currect number is {rand} and you are reaching at this number at  {count} attempts 👍")  
             print(f"Your Whole attemps is that {User_list}") 
             break
             
